@@ -3,8 +3,6 @@ application:
   logo: 'https://www.postnl.nl/img/logo.png'
   favicon: 'https://www.postnl.nl/favicon.ico'
   theme: deeporange-indigo
-  gitHubRibbon: false
-  pressKitUrl: 'https://www.postnl.nl/en/about-postnl/press-news/press-releases/'
   altcoinName: PostCoin
 challenges:
   showHints: false
