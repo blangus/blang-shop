@@ -2,12 +2,17 @@ application:
   name: 'PostNL Shop'
   logo: 'https://www.postnl.nl/img/logo.png'
   favicon: 'https://www.postnl.nl/favicon.ico'
-  showChallengeSolvedNotifications: true
-  showChallengeHints: false
   theme: deeporange-indigo
   gitHubRibbon: false
   pressKitUrl: 'https://www.postnl.nl/en/about-postnl/press-news/press-releases/'
   altcoinName: PostCoin
+challenges:
+  showHints: false
+  codingChallengesEnabled: never
+  xssBonusPayload: '<iframe width="560" height="315" src="https://www.youtube.com/embed/0u9g0LhRkGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  showFeedbackButtons: false
+hackingInstructor:
+  isEnabled: false  
 products:
   -
     name: 'Postzegel Liefde'
