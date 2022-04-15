@@ -2,7 +2,7 @@ application:
   domain: postnlshop.op
   name: 'Postnl Shop'
   logo: 'https://www.postnl.nl/img/logo.png'
-  favicon: 'https://www.postnl.nl/favicon.ico
+  favicon: 'https://www.postnl.nl/favicon.ico'
   showChallengeSolvedNotifications: true
   showChallengeHints: false
   theme: deeporange-indigo
