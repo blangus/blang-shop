@@ -1,34 +1,13 @@
 application:
-  domain: postnlshop.op
-  name: 'Postnl Shop'
+  name: 'PostNL Shop'
   logo: 'https://www.postnl.nl/img/logo.png'
   favicon: 'https://www.postnl.nl/favicon.ico'
   showChallengeSolvedNotifications: true
   showChallengeHints: false
   theme: deeporange-indigo
   gitHubRibbon: false
-  twitterUrl: 'https://twitter.com/postnl'
-  facebookUrl: null
-  slackUrl: null
-  redditUrl: null
   pressKitUrl: 'https://www.postnl.nl/en/about-postnl/press-news/press-releases/'
-  recyclePage:
-    topProductimage: Gear-200155340.jpg
-    bottomProductimage: Gear-200155753.jpg
   altcoinName: PostCoin
-  cookieConsent:
-    backgroundColor: '#e95420'
-    textColor: '#ffffff'
-    buttonColor: '#2778c5'
-    buttonTextColor: '#ffffff'
-    message: 'This website uses a myriad of 3rd-party cookies for your convenience and tracking pleasure.'
-    dismissText: 'Never mind!'
-    linkText: 'How can I turn this off?'
-    linkUrl: 'https://postnl.nl'
-  privacyContactEmail: 'donotreply@postnl.nl'
-  securityTxt:
-    contact: 'mailto:donotreply@postnl.nl'
-    encryption: ~
 products:
   -
     name: 'Postzegel Liefde'
