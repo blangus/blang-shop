@@ -70,5 +70,13 @@ products:
     price: 0.03
     image: waspy.png
     deletedDate: '2017-07-01'
+  -
+    name: 'Mozilla Austin CTF Logo (3D-printed)'
+    description: 'This rare item was designed and handcrafted in Sweden. This is why it is so incredibly expensive despite its complete lack of purpose.'
+    price: 99.99
+    image: 3d_keychain.jpg
+    fileForRetrieveBlueprintChallenge: 'https://github.com/mozilla/ctf-austin/raw/master/app/public/images/products/3d_keychain.stl'
+    exifForBlueprintChallenge:
+      - ~
 ctf:
   showFlagsInNotifications: true
